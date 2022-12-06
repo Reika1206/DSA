@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 100%;
+    height: 150vh;
+    background-image: linear-gradient(to right top, #000000, #161515, #42403d, #a1a09f, #6e706d);
+    background-position: center;
+    
+    background-attachment: fixed;
+}
